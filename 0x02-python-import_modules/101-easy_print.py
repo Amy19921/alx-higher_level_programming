@@ -1,1 +1,2 @@
-import pp 
+#!/usr/bin/python3
+import tampon
